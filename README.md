@@ -5,7 +5,7 @@ Roll Number: CDS/2025/1189
 Course: Introduction to Data Structure  
 
 ## Assignment Description
-This repository contains Assignment 4 programs based on Stack and Queue implemented in C language.
+This repository contains Assignment 4 programs based on Sorting algorithms in C language.
 
 ## Programs Included
 1. bubble sort:arrange student marks
